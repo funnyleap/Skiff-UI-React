@@ -73,7 +73,7 @@
     "esbuild": "^0.15.6",
     "esbuild-node-externals": "^1.5.0",
     "esbuild-plugin-svgr": "^1.0.1",
-    "esbuild-sass-plugin": "^2.2.6",
+    "esbuild-sass-plugin": "^3.0.0",
     "identity-obj-proxy": "^3.0.0",
     "prettier": "^2.*",
     "sass": "^1.53.0",
