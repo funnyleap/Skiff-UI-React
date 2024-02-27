@@ -2,7 +2,7 @@
 ![Logo](https://raw.githubusercontent.com/skiff-org/skiff-org.github.io/main/assets/updates/skiff-ui-og.png)
 
 
-# Skiff UI – Design System
+# Skiff UserInterface – Design System
 
 Skiff UI is an open-source React component library based on a collection of reusable interface elements used in Skiff. It offers a wide range of customizable components for web apps, empowering you to create beautiful and user-friendly interfaces.
 
